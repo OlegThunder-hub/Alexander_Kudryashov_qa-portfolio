@@ -32,6 +32,14 @@ Jira
 
 Postman
 
+Docker
+
+DBeaver
+
+pgAdmin
+
+Git 
+
 SQL (PostgreSQL)
 
 DevTools
